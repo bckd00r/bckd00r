@@ -1,16 +1,34 @@
-### Hi there 👋
+# ✨ Hey there! It's bckd00r
+---
+I usually spend my time playing games, listening to songs, trying interesting things with javascript and python.
+## 🌍 Social Media
+- [Discord](https://discordapp.com/users/502354495242633236)
+- [NPM](https://www.npmjs.com/~bckd00r)
+- [Website](https://bckd00r.tk)
+
+## 💡 Projects and Repositories
+| Project - Repo | Status|
+| ----------- | ----------- |
+| [Bin2Dec](https://github.com/bckd00r/Bin2Dec) | Ended |
+
+## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bckd00r&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bckd00r&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
+</p>
+
+## 🦄 Favorite Games
+- Brawlhalla
+- Age Of Empires III Definitive Edition
+- Age Of Empires II (HD)
+- Age Of Empires II The Conquerors
+- Terraria
+- Minecraft
 
 <!--
 **bckd00r/bckd00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Uh? Heey i'm here!
 -->
