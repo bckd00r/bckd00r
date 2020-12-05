@@ -10,6 +10,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | Project - Repo | Status|
 | ----------- | ----------- |
 | [Bin2Dec](https://github.com/bckd00r/Bin2Dec) | Ended |
+| [Time-parse](https://www.npmjs.com/package/@bckd00r/time-parse) | WIP |
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 <p align="center">
