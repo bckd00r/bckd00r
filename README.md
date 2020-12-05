@@ -12,7 +12,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | [Bin2Dec](https://github.com/bckd00r/Bin2Dec) | Ended |
 | [Time-parse](https://www.npmjs.com/package/@bckd00r/time-parse) | WIP |
 
-## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+## 📈 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bckd00r&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bckd00r&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
