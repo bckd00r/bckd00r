@@ -11,6 +11,7 @@ I usually spend my time playing games, reading books, trying interesting things 
 | ----------- | ----------- |
 | [Bin2Dec](https://github.com/bckd00r/Bin2Dec) | Ended |
 | [Time-parse](https://www.npmjs.com/package/@bckd00r/time-parse) | WIP |
+| [HueBot](https://top.gg/bot/761329800357871626) | WIP |
 
 ## 📈 Github Stats
 <p align="center">
