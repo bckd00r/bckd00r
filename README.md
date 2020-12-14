@@ -1,6 +1,6 @@
 # ✨ Hey there! It's bckd00r
 ---
-I usually spend my time playing games, listening to songs, trying interesting things with javascript and python.
+I usually spend my time playing games, reading books, trying interesting things with javascript and other languages.
 ## 🌍 Social Media
 - [Discord](https://discordapp.com/users/502354495242633236)
 - [NPM](https://www.npmjs.com/~bckd00r)
