@@ -9,7 +9,7 @@ I spend my time trying robots, books and new things.
     <a href="https://discord.com/users/790306808748703764"><img src="https://img.shields.io/badge/bckd00r%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~bckd00r"><img src="https://img.shields.io/badge/bckd00r%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://github.com/bckd00r"><img src="https://img.shields.io/badge/bckd00r%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bariscodes.me"><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
+    <a href="https://bckd00r.net"><img src="https://img.shields.io/badge/My Website%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
