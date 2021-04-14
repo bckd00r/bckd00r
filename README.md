@@ -1,6 +1,8 @@
 # ✨ Hey there! It's bckd00r
 ---
-I usually spend my time playing games, reading books, trying interesting things with javascript and other languages.
+
+I spend my time trying robots, books and new things.
+
 ## 🌍 Social Media
 
 <p align="center">
